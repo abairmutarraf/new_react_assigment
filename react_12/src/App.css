@@ -1,0 +1,301 @@
+/* All fonts here Start */
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url(./Components/fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Inter-VariableFont_slnt,wght';
+    src: url(./Components/fonts/Inter-VariableFont_slnt,wght.ttf);
+}
+
+
+/* All fonts here End */
+
+
+/* Nav bar Css Start */
+
+
+/* Navbar margin and padding zero for custom giving as per figma start*/
+
+.my-navbar-margin {
+    margin-left: auto;
+    margin-right: 0px;
+}
+
+.my-main-container-row-3 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.navbar-brand {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.nav-link {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+
+/* Navbar margin and padding zero for custom giving as per figma End */
+
+
+/* Navbar margin and padding giving now as per figma Start*/
+
+.my-navbar-first-container {
+    padding-top: 30px;
+}
+
+.mynavlink-fontfamily {
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: "Roboto-Regular";
+    line-height: 18.75px;
+    color: #0F2B4A;
+    margin-right: 30px;
+}
+
+.my-navbar-btn {
+    /* padding: 0px; */
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Roboto-Regular";
+    line-height: 18.75px;
+    /* background-color: white; */
+    color: #2289FF;
+    align-content: center;
+    margin-right: 15px;
+}
+
+.my-navbar-btn2 {
+    /* padding: 0px; */
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Roboto-Regular";
+    line-height: 18.75px;
+    align-content: center;
+    margin-right: 15px;
+}
+
+
+/* Navbar margin and padding giving now as per figma End*/
+
+
+/* Nav bar Css End */
+
+
+/* Main Content Start */
+
+.my-main-content-container {
+    margin-top: 94px;
+}
+
+.my-main-content-container-row-f1 {
+    font-size: 70px;
+    font-weight: 600;
+    font-style: normal;
+    font-family: "Inter-VariableFont_slnt,wght";
+    line-height: 86px;
+}
+
+@media (max-width: 930px) {
+    .my-main-content-container-row-f1 {
+        font-size: 50px;
+        font-weight: 600;
+        font-style: normal;
+        font-family: "Inter-VariableFont_slnt,wght";
+        line-height: 70px;
+    }
+}
+
+@media (max-width: 500px) {
+    .my-main-content-container-row-f1 {
+        font-size: 30px;
+        font-weight: 600;
+        font-style: normal;
+        font-family: "Inter-VariableFont_slnt,wght";
+        line-height: 45px;
+    }
+}
+
+.my-main-content-container-row-f2 {
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Roboto";
+    line-height: 30px;
+}
+
+.my-main-content-container-row-f3 {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.my-main-content-container-row-logo {
+    margin-top: 100px;
+}
+
+
+/* Main Content End */
+
+
+/* Main Container 2 Start */
+
+.my-main-container2 {
+    margin-top: 86px;
+}
+
+.my-main-container2-p {
+    font-size: 48px;
+    font-weight: 600;
+    font-style: normal;
+    font-family: "Inter-VariableFont_slnt,wght";
+    line-height: 58.09px;
+}
+
+
+/* Main Container 2 End */
+
+
+/* Main Container 3 Start   */
+
+.my-content3-logo-container {
+    margin-top: 66px;
+}
+
+.my-content3-logo-p-1 {
+    font-size: 26px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: "Inter-VariableFont_slnt,wght";
+    line-height: 31.47px;
+}
+
+.my-content3-logo-p-2 {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Roboto-Regular";
+    line-height: 26px;
+}
+
+.my-card {
+    border: 0px;
+}
+
+
+/* Main Container 3 End   */
+
+
+/* Main Container 4 Start   */
+
+.my-container-4 {
+    margin-top: 80px;
+}
+
+.my-container-4-p1 {
+    font-size: 48px;
+    font-weight: 600;
+    font-style: normal;
+    font-family: "Inter-VariableFont_slnt,wght";
+    line-height: 62px;
+}
+
+.my-container-4-p3 {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Roboto-Regular";
+    line-height: 26px;
+}
+
+
+/* Main Container 4 End   */
+
+
+/* Main Container 7 Start */
+
+.my-container-7 {
+    margin-top: 141px;
+    background-color: #0F2A47;
+    padding-bottom: 112px;
+}
+
+.my-container-7-1-p-1 {
+    padding-top: 112px;
+    font-size: 48px;
+    font-weight: 600;
+    font-style: normal;
+    font-family: "Inter-VariableFont_slnt,wght";
+    line-height: 58.09px;
+    color: #FFFFFF;
+}
+
+.my-container-7-1-p-2 {
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Roboto-Regular";
+    line-height: 28px;
+    color: #B6BEC8;
+}
+
+.my-container-7-1-p-3 {
+    padding-top: 136px;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Roboto-Regular";
+    line-height: 18.75px;
+    color: #FFFFFF;
+}
+
+
+/* Main Container 7 End */
+
+
+/* Main Container 8 Start */
+
+.my-content8 {
+    margin-top: 140px;
+}
+
+.my-content8-p1 {
+    font-size: 20px;
+    font-weight: 600;
+    font-style: normal;
+    font-family: "Inter-VariableFont_slnt,wght";
+    line-height: 24.2px;
+    color: #0F2B4A;
+}
+
+.my-content8-p2 {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Roboto-Regular";
+    line-height: 32px;
+    color: #576B81;
+}
+
+.my-container-row-2 {
+    margin-top: 80px;
+    margin-bottom: 83.61px;
+}
+
+.my-container-row-2-p {
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    font-family: "Roboto-Regular";
+    line-height: 18.75px;
+    color: #A2AFBD;
+}
+
+
+/* Main Container 8 End */
